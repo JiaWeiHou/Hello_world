@@ -1,4 +1,5 @@
 <root>
 	<name>Liu</name>
 	<address>000</address>
+	<score>100</score>
 </root>
